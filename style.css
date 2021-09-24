@@ -1,0 +1,42 @@
+h1{
+    color: red;
+}
+p{
+    color: red;
+
+}
+.strikeout{
+    text-decoration: line-through;
+
+}
+.underline{
+    text-decoration: underline;
+
+}
+.listitem{
+ color: brown;
+}
+.tx{
+    color: brown;
+    letter-spacing: 5px;
+}
+.spancolor{ 
+ background: yellow;
+}
+.yellow{
+    background: yellow;
+    font-weight: bold;
+  
+}
+#para{
+    color: rgb(156, 55, 38);
+
+}
+.anc{
+    background: turquoise;
+    text-decoration: underline;
+}
+.img{
+    border-radius: 8px;
+    margin-left: 50%;
+}
